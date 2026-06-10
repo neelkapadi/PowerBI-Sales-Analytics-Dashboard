@@ -87,12 +87,6 @@ The dataset contains information related to:
 
 <img width="1342" height="726" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/b900a905-63fc-4a7c-9c23-9c24c0141af6" />
 
-Example:
-
-```markdown
-![Dashboard Preview](Dashboard_Screenshot.png)
-```
-
 ---
 
 ## 🚀 Learning Outcomes
